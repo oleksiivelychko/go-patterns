@@ -1,14 +1,14 @@
-# golang
+# go-lang
 
 ### Reveal Go language crucial gears and idiomatic features.
 
 📌 Edit module name:
 ```
-go mod edit -module github.com/oleksiivelychko/golang
+go mod edit -module github.com/oleksiivelychko/go-lang
 ```
 📌 List of module versions:
 ```
-go list -m -versions github.com/oleksiivelychko/golang
+go list -m -versions github.com/oleksiivelychko/go-lang
 ```
 📌 Run tests with benchmarks for the package:
 ```
